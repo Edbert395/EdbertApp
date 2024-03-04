@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EdbertApp</string>
+    <string name="price">"Rp. "</string>
+</resources>
